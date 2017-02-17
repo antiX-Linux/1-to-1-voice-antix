@@ -1,0 +1,26 @@
+1-to-1-voice-antix (0.1.1.1) unstable; urgency=low 
+ 
+  * Add to 1-to-1_voice.sh routine to automatically copy configs from /etc/skel to ~/.config/1-to-1_voice  ($CONFIG_DIR)
+    mumble.conf
+    murmur.ini
+  * Changed version number to 1.1 for
+    1-to-1_voice.sh
+    1-to-1_voice_provide.sh
+    1-to-1_voice_call.sh
+
+ -- anticapitalista <antiX@operamail.com>  Thu, 22 Oct 2015 14:17:00 +0200
+
+
+1-to-1-voice-antix (0.1.1) unstable; urgency=low 
+ 
+  * Included FAQ docs
+
+ -- anticapitalista <antiX@operamail.com>  Fri, 03 July 2015 15:02:00 +0200
+
+
+1-to-1-voice-antix (0.1.0) unstable; urgency=low 
+ 
+  * Initial Release.
+
+ -- anticapitalista <antiX@operamail.com>  Wed, 15 Apr 2015 13:34:00 +0200
+

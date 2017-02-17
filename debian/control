@@ -1,0 +1,15 @@
+Source: 1-to-1-voice-antix
+Section: system
+Priority: optional
+Maintainer: anticapitalista <antix@operamail.com>
+Build-Depends: debhelper (>= 9.20120115)
+Standards-Version: 3.9.4
+Homepage: http://antix.mepis.org
+
+Package: 1-to-1-voice-antix
+Architecture: all
+Depends: yad, mumble, mumble-server 
+Description: A simple way to talk privately with the user of another system.
+
+
+

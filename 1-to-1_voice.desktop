@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=1-to-1 Voice
+Comment=Talk privately to someone via SSL enabled Mumble/Murmur
+Exec=1-to-1_voice.sh
+Icon=1-to-1_voice.png
+Terminal=false
+Type=Application
+StartupNotify=false
+NoDisplay=false
+Categories=Network;Chat;
