@@ -1,3 +1,10 @@
+1-to-1-voice-antix (1.1) unstable; urgency=medium
+
+  * Updated docs for antiX-17 
+  * Bump debian version to match version of app	
+
+ -- anticapitalista <antix@operamail.com>  Sun, 29 Oct 2017 11:17:02 +0200
+
 1-to-1-voice-antix (0.1.1.1) unstable; urgency=low 
  
   * Add to 1-to-1_voice.sh routine to automatically copy configs from /etc/skel to ~/.config/1-to-1_voice  ($CONFIG_DIR)

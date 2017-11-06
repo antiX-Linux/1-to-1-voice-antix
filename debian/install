@@ -1,7 +1,6 @@
-bin/*                /usr/local/bin  
-config/*             /etc/skel/.config/1-to-1_voice  
-1-to-1_voice.desktop /usr/share/applications/antix
-icon/*	             /usr/share/pixmaps
-changelog.gz         /usr/share/doc/1-to-1_voice-antix
-copyright            /usr/share/doc/1-to-1_voice-antix
-1-to-1_voice.html    /usr/share/antiX/FAQ 
+bin/*               			 /usr/local/bin  
+config/*            		 /etc/skel/.config/1-to-1_voice  
+1-to-1_voice.desktop	 /usr/share/applications/antix
+icon/*	           	 	 /usr/share/pixmaps
+1-to-1_voice.html   	 	/usr/share/antiX/FAQ 
+1-to-1_voice 			/usr/share/antiX/FAQ/images
