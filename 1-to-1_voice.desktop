@@ -1,6 +1,24 @@
 [Desktop Entry]
 Name=1-to-1 Voice
+Name[ca]=Parla 1-a-1
+Name[de]=1-zu-1 Voice
+Name[el]=1-to-1 Voice
+Name[es]=Voz 1-a-1
+Name[fr]=1-pour-1 vocal
+Name[it]=Parla 1-a-1
+Name[nl]=1-op-1 Stem
+Name[pt]=Voz 1-a-1
+Name[sv]=1-till-1 Röst
 Comment=Talk privately to someone via SSL enabled Mumble/Murmur
+Comment[ca]=Parlar privadament amb Mumble/Murmur i SSL habilitat
+Comment[de]=Privater Sprachchat über SSL-verschlüsseltes Mumble/Murmur
+Comment[el]=Μιλήσετε ιδιαιτέρως με κάποιον μέσω SSL ενεργοποιημένη Mumble/Murmur
+Comment[es]=Hablar privadamente via SSL con Mumble/Murmur habilitado
+Comment[fr]=Communiquer à quelqu'un de manière privée via Mumble/Murmur avec prise en charge de SSL
+Comment[it]=Comunicare privatamente via SSL abilitando Mumble/Murmur
+Comment[nl]=Spreek privé met iemand middels SSL geactiveerde Mumble/Murmur
+Comment[pt]=Falar em privado por Mumble/Murmur com SSL
+Comment[sv]=Tala privat med någon via SSL aktiverad Mumble/Murmur
 Exec=1-to-1_voice.sh
 Icon=1-to-1_voice.png
 Terminal=false
